@@ -1,4 +1,10 @@
 # FortniteSTW
+echo "# FortniteSTW" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/GustyRaven/FortniteSTW.git
+git push -u origin master
 <div class="missionalerts-container"><div class="simple-container"><div class="simple-container-header"><div class="countdown" data-v-1f47cb1c=""><label class="countdown-label" data-v-1f47cb1c=""><span class="label" data-v-1f47cb1c="">
             Expires in
         </span><span class="display" data-v-1f47cb1c="">
@@ -50,9 +56,3 @@
                     </span><!----></div><div class="reward"><img src="https://assets.stormshield.one/tsmall/T-Icon-Assault-128.png"><span class="power-level">88</span><span class="reward-item quality">
                         Assault Rifle Transform Schematic
                     </span><!----></div></div><div class="seemore-container"><a href="/pve" class="seemore">See all</a></div></div></div></div>
-echo "# FortniteSTW" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/GustyRaven/FortniteSTW.git
-git push -u origin master
